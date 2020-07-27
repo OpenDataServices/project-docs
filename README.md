@@ -6,3 +6,5 @@ In general, these processes will be most applicable to mid-sized projects - more
 
 The principles, however, are universally applicable. 
 
+These docs can be found at [https://robredpath.gitbook.io/project-management-at-odsc/](https://robredpath.gitbook.io/project-management-at-odsc/)
+
