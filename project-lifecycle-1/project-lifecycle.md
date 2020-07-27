@@ -1,8 +1,8 @@
 # Project Lifecycle
 
-A project typically follows a fairly standard path through the organisation
+A project typically follows a fairly standard path through the organisation:
 
-### At the negotiation stage, we work to agree with a client broadly what we'll do, and specify in a contract details such as timescales, budget, and interaction with other parties. Pre-bid
+### Pre-bid
 
 A project at the pre-bid stage will often have an estimated budget range, an outcome to be achieved, and some broad ideas about what should be done. 
 
@@ -27,7 +27,7 @@ The [Product Lead ](../roles/product-lead.md)might:
 
 ### Bid stage / Negotiation stage
 
-
+At the negotiation stage, we work to agree with a client broadly what we'll do, and specify in a contract details such as timescales, budget, and interaction with other parties. 
 
  At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
 

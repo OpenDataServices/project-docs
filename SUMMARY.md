@@ -22,8 +22,9 @@
 
 ## Patterns for collaboration
 
-* [Refinement call](patterns-for-collaboration/refinement-call.md)
+* [Refinement Call](patterns-for-collaboration/refinement-call.md)
 * [Standup](patterns-for-collaboration/standup.md)
+* [Pair Programming](patterns-for-collaboration/pair-programming.md)
 * [Running the board](patterns-for-collaboration/running-the-board.md)
 * [Definition of Ready](patterns-for-collaboration/definition-of-ready.md)
 * [Definition of Done](patterns-for-collaboration/definition-of-done.md)

@@ -6,9 +6,19 @@ Trello is very flexible, and so this page describes the conventions that we use 
 
 ### Columns
 
-The board has columns to reflect each stage of the software development process in the [Delivery stage](../project-lifecycle-1/delivery-stage.md). 
+The board has columns to reflect each stage of the software development process in the [Delivery stage](../project-lifecycle-1/delivery-stage.md). Each column should have a card at the top with a blue cover and a quick description of what each stage means. 
 
-Each column should have a card at the top with a blue cover and a quick description of what each stage means
+Additional columns may be added if the project calls for a specific workflow. It can be helpful to have a separate Done column for each month or each sprint to aid with reporting. 
+
+In addition, the board has a couple of extra columns for context:
+
+#### Board Constants
+
+Any template cards, summaries of sprint outcomes, links to other boards \(eg [Knowledge Management](knowledge-management-board.md)\), links to system architecture, rationale for the work can live here so that they're always to hand. 
+
+#### High-level Objectives
+
+A copy of appropriate parts of the contract wording to help us ensure that we're always keeping what we're being paid for in mind!   
 
 ### Stickers
 
@@ -26,13 +36,13 @@ Covers are used to identify if work is blocked \(red cover\) or impeded \(yellow
 
 ### Cards
 
-Cards should point to everything that relates to a particular piece of work, but contain only 
+Cards should point to everything that relates to a particular piece of work, but contain only notes and discussion that relate to doing the work. 
 
 ### Trello Power-Ups
 
 #### GitHub
 
-The GitHub power-up allow GitHub issues and Trello cards to be linked. When an issue is added to a card, Trello automatically comments on the issue with a link to the card, so that a 2-way link is established
+The GitHub power-up allow GitHub issues and Trello cards to be linked. When an issue is added to a card, Trello automatically comments on the issue with a link to the card, so that a 2-way link is established. This power-up should be used whenever a project is version-controlled on GitHub.
 
 #### README
 
@@ -43,6 +53,14 @@ The README power-up allows the [Project Delivery Lead](../roles/project-delivery
 Butler automates common actions, reducing the manual work required to administer a board. Common uses include:
 
 * Automatically adding the [Definition of Ready](../patterns-for-collaboration/definition-of-ready.md) template to new cards
+
+#### Card Family
+
+Card Family allows sub-cards to be linked back to a parent card when a task is subdivided
+
+#### Card Numbers
+
+Card Numbers adds numbers to the front of each card to aid with identification of individual cards
 
 
 
