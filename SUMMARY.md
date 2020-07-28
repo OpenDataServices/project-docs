@@ -28,4 +28,5 @@
 * [Running the board](patterns-for-collaboration/running-the-board.md)
 * [Definition of Ready](patterns-for-collaboration/definition-of-ready.md)
 * [Definition of Done](patterns-for-collaboration/definition-of-done.md)
+* [Estimating](patterns-for-collaboration/estimating.md)
 
