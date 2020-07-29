@@ -19,6 +19,12 @@ Work is Done when:
 * We've told everyone who might have an interest in it
 * If it's a change that required approval / sign-off / a final review by someone at the client before we move on, that's been done. 
 
+#### Rationale
+
+It's common for everyone to have their own idea of when work is "done", particularly if they have a specific focus within the work. For example, if the task is to add a function to a website, then the person developing the software will \(rightly\) feel a sense of accomplishment when the software runs correctly on their computer, or when the PR is merged. 
+
+However, there are other things that need to happen before the team never have to think about the work again - docs need to be written, software needs to be deployed. 
+
 
 
 
