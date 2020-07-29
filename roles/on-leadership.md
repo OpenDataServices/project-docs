@@ -16,5 +16,7 @@ Leading on area of work doesn't mean:
 
 On some projects, some roles can be combined, depending on the particular needs of the project. 
 
-Roles can be carried out by different people over time. For example, the [Project Delivery Lead](project-delivery-lead.md) who provides input at the bid stage may not be available to carry a project forward, and so could hand that role on.  
+Roles can be carried out by different people over time for a single project. For example, the [Project Delivery Lead](project-delivery-lead.md) who provides input at the bid stage may not be available to carry a project forward, and so could hand that role on. 
+
+Our expectation is that each of these roles can be carried out by different people for particular projects. 
 

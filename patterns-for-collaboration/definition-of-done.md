@@ -21,9 +21,7 @@ Work is Done when:
 
 #### Rationale
 
-It's common for everyone to have their own idea of when work is "done", particularly if they have a specific focus within the work. For example, if the task is to add a function to a website, then the person developing the software will \(rightly\) feel a sense of accomplishment when the software runs correctly on their computer, or when the PR is merged. 
-
-However, there are other things that need to happen before the team never have to think about the work again - docs need to be written, software needs to be deployed. 
+When developing software it's really easy to focus on the interesting and/or hard parts of the job - working out how to solve the problem, and making the code work. However, this means it's easy to leave the finishing-off parts un-done, or mean to get back to them later. Having a comprehensive Definition Of Done means that once work is finished, you don't have to think about it ever again!
 
 
 

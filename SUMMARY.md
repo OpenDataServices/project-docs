@@ -30,3 +30,9 @@
 * [Definition of Done](patterns-for-collaboration/definition-of-done.md)
 * [Estimating](patterns-for-collaboration/estimating.md)
 
+## Patterns for Project Management
+
+* [Short-Term Engagement](patterns-for-project-management/short-term-engagement.md)
+* [Long-Term Engagement](patterns-for-project-management/long-term-engagement.md)
+* [Software-focussed Engagement](patterns-for-project-management/software-focussed-engagement.md)
+
