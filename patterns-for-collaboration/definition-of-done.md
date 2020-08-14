@@ -7,9 +7,9 @@ The Definition of Done is a description of when a piece of work can be considere
 * Prevent little bits of extra work adding up
 * Ensure that work actually gets finished!
 
-The DoD can be adapted for specific projects, but only if the project's specific requirements require additional steps \(e.g. a specific sign-off procedure\). 
+The DoD can be adapted for specific projects, but only if the project's specific requirements require additional steps \(e.g. a specific sign-off procedure\).
 
-### Template Definition of Done
+## Template Definition of Done
 
 Work is Done when:
 
@@ -19,13 +19,7 @@ Work is Done when:
 * We've told everyone who might have an interest in it
 * If it's a change that required approval / sign-off / a final review by someone at the client before we move on, that's been done. 
 
-#### Rationale
+### Rationale
 
 When developing software it's really easy to focus on the interesting and/or hard parts of the job - working out how to solve the problem, and making the code work. However, this means it's easy to leave the finishing-off parts un-done, or mean to get back to them later. Having a comprehensive Definition Of Done means that once work is finished, you don't have to think about it ever again!
-
-
-
-
-
-
 

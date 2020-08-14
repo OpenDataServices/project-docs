@@ -1,6 +1,6 @@
-# Product Lead
+# Product Owner
 
-The Product Lead's role is to define the product\(s\) that are to be built, in consultation with the varous stakeholders. 
+The Product Owner's role is to define the product\(s\) that are to be built, in consultation with the varous stakeholders.
 
 Stakeholders in a product typically include:
 

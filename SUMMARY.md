@@ -5,9 +5,9 @@
 ## Roles
 
 * [On Leadership](roles/on-leadership.md)
-* [Project Delivery Lead](roles/project-delivery-lead.md)
+* [Project Operations Facilitator](roles/project-delivery-lead.md)
 * [Technical Lead](roles/technical-lead.md)
-* [Product Lead](roles/product-lead.md)
+* [Product Owner](roles/product-lead.md)
 * [Developer](roles/developer.md)
 
 ## Project Artefacts

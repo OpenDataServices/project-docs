@@ -2,9 +2,9 @@
 
 A project typically follows a fairly standard path through the organisation:
 
-### Pre-bid
+## Pre-bid
 
-A project at the pre-bid stage will often have an estimated budget range, an outcome to be achieved, and some broad ideas about what should be done. 
+A project at the pre-bid stage will often have an estimated budget range, an outcome to be achieved, and some broad ideas about what should be done.
 
 At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
 
@@ -25,11 +25,11 @@ The [Product Lead ](../roles/product-lead.md)might:
 * Develop an understanding of the other products and services that the project might interact with
 * Develop and document an understanding of the ecosystem that the project will operate within
 
-### Bid stage / Negotiation stage
+## Bid stage / Negotiation stage
 
-At the negotiation stage, we work to agree with a client broadly what we'll do, and specify in a contract details such as timescales, budget, and interaction with other parties. 
+At the negotiation stage, we work to agree with a client broadly what we'll do, and specify in a contract details such as timescales, budget, and interaction with other parties.
 
- At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
+At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
 
 * Confirm the team and the timescales in the forecast
 * Set up the financial aspects of the contract
@@ -48,11 +48,11 @@ The [Product Lead ](../roles/product-lead.md)might:
 * Discuss with colleagues who might be best placed to carry out both the development and non-development aspects of the project
 * Ensure that the wider product or service that we're creating is clearly understood
 
-### [Delivery Stage](delivery-stage.md)
+## [Delivery Stage](delivery-stage.md)
 
-At the delivery stage, we're actually doing the project. 
+At the delivery stage, we're actually doing the project.
 
- At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
+At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
 
 * Ensure that impediments to the delivery of the project are identified and addressed quickly
 * Monitor the progress of the work against the initial aims to ensure that it continues to progress, and alert the team to any issues
@@ -79,11 +79,11 @@ The [Product Lead ](../roles/product-lead.md)might:
 * Co-ordinate user research
 * Write user documentation
 
-### Ending Stage
+## Ending Stage
 
 At the ending stage, we've delivered the project and we need to make sure that we leave everything in a good state
 
- At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
+At this stage, the [Project Delivery Lead](../roles/project-delivery-lead.md) might:
 
 * Send final invoices
 * Convene retrospectives
@@ -100,6 +100,4 @@ The [Product Lead ](../roles/product-lead.md)might:
 * Evaluate the work with the client
 * Record any ideas for future development 
 * Ensure that any non-development work is aligned with the development work that's been carried out
-
-
 

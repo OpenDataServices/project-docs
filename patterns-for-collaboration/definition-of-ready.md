@@ -2,9 +2,9 @@
 
 The Definition of Ready \(DoR\) ensures that we know what we're trying to do, and when we'll be able to call it done, before we start work.
 
-The DoR can be adapted to meet specific project requirements, such as where there's a specific approval process. Be aware, however, that using a non-standard DoR adds to the overhead for someone coming on to the project, or people working on multiple projects. 
+The DoR can be adapted to meet specific project requirements, such as where there's a specific approval process. Be aware, however, that using a non-standard DoR adds to the overhead for someone coming on to the project, or people working on multiple projects.
 
-### Template Definition of Ready
+## Template Definition of Ready
 
 * It's clear how the world will be different when the work is completed
 * It's clear what will and won't be done
@@ -13,21 +13,21 @@ The DoR can be adapted to meet specific project requirements, such as where ther
 * The work's been approved by someone at the client
 * There's links to everything that's written down about the work - such as plan.io tickets, GitHub issues
 
-#### Copy-pastable Template
+### Copy-pastable Template
 
-_\* It's clear how the world will be different when the work is completed_ 
+_\* It's clear how the world will be different when the work is completed_
 
-_\* It's clear what will and won't be done_ 
+_\* It's clear what will and won't be done_
 
-_\* Any uncertainty, assumptions, dependencies or constraints are recorded_ 
+_\* Any uncertainty, assumptions, dependencies or constraints are recorded_
 
-_\* There's an order-of-magnitude estimate of how long it will take_ 
+_\* There's an order-of-magnitude estimate of how long it will take_
 
 _\* The work's been approved by someone at the client_
 
 _\* There's links to everything that's written down about the work - such as plan.io tickets, GitHub issues_
 
-#### Example
+### Example
 
 _\* It's clear how the world will be different when the work is completed_
 
